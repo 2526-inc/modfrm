@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header,footer {
+    padding: 20px;
+    color: #fff;
+}
+header{
+    background-color: black;
+    height: 100px;
+}
+.headertxt{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    margin-top: 20px;
+}
+.how{
+    background: turquoise;
+    width: 250px;
+}
+.how2{
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 55px;
+}
+.how{
+    margin-left: 40%;
+}
